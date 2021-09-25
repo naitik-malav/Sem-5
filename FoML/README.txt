@@ -1,1 +1,0 @@
-Use small.csv dataset for fast computation. I have taken first 20rows from the provided dataset wine-dataset. So for fast computationa and quick result check use small.csv.
