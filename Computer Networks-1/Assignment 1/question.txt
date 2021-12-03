@@ -1,0 +1,28 @@
+# Motivation
+The Internet works as large-scale and complex interconnections among many routers belonging to various ISPs.  If you want to know how those routers and ISPs are interconnected between the source and destination hosts, how would you do so?
+
+
+# Instructions
+
+0. This is a group work.  The maximum number of group members is 6 (six, non-negotiable).
+1.1. Perform traceroute from many source hosts to many destination hosts with showing AS numbers.
+1.2. If you cannot secure many source hosts, consider the use of public looking glass.
+2. Use "whois" database to know 1) the operator / organization name, and 2) the range of IP address of each AS (ISP) shown in the traceroute results.
+3. Illustrate the AS path where traceroute packets traversed from source and destination hosts.
+4. Report your findings through the hands-on (free text / contents)
+5. One submission per group is accepted.  Please make sure the name and roll ID of all the members are mentioned in the deliverable.
+
+
+# Deliverables (all in one PDF file)
+1. The illustration of the Internet topology
+2. The written report (preferably less than 400 words)
+
+
+# Evaluation Criteria
+1. The number of source and destination hosts is reasonably many (for example, at least 5 sources and at least 10 destinations) (10 marks)
+2. The illustration is informative, and neatly furnished (20 marks)
+3. The written report contains meaningful information.  Read-aloud of traceroute result will not get a high score. (10 marks)
+4. Impressive efforts may get some extra score (up to 5 marks)
+
+
+All the best!
